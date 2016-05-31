@@ -1,2 +1,2 @@
 # Donkeykong-Game
-Donke-ykong game in python
+Donkey-kong game in python
